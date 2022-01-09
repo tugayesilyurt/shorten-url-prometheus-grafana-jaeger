@@ -28,12 +28,12 @@ If you need to stop and remove all containers, networks, and all images used by 
 
 - **Jaeger**
 
-![Jaeger](https://github.com/tugayesilyurt/spring-zipkin-cassandra/blob/main/assets/jaeger.PNG)
+![Jaeger](https://github.com/tugayesilyurt/shorten-url-prometheus-grafana-jaeger/blob/main/assets/jaeger.PNG)
 
 - **Prometheus**
 
-![Prometheus](https://github.com/tugayesilyurt/spring-zipkin-cassandra/blob/main/assets/prometheus.PNG)
+![Prometheus](https://github.com/tugayesilyurt/shorten-url-prometheus-grafana-jaeger/blob/main/assets/prometheus.PNG)
 	
 - **Grafana**
 
-![Grafana](https://github.com/tugayesilyurt/spring-zipkin-cassandra/blob/main/assets/grafana.PNG)
+![Grafana](https://github.com/tugayesilyurt/shorten-url-prometheus-grafana-jaeger/blob/main/assets/grafana.PNG)
